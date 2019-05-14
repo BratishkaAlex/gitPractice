@@ -1,3 +1,7 @@
+artist: Parkway Drive
+album: Atlas
+song: Wild Eyes
+
 We built our dreams from the ashes of your nightmares
 Carried our father's sins, from the cradle to the grave
 We paved our paths through the darkness that you left us in
@@ -29,3 +33,6 @@ A generation born to witness the end of the world
 Born to witness the end of the world
 
 Viva the underdogs
+
+
+Copyright © 2000-2019 AZLyrics.com
